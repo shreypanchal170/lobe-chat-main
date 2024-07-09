@@ -1,0 +1,96 @@
+{
+  "agentDefaultMessage": "こんにちは、私は **{{name}}** です。すぐにチャットを開始するか、[エージェント設定](/chat/settings#session={{id}}) に移動して私の情報を完全にすることができます。",
+  "agentDefaultMessageWithSystemRole": "こんにちは、私は **{{name}}** です、{{systemRole}}、さあ、チャットを始めましょう！",
+  "backToBottom": "現在に戻る",
+  "clearCurrentMessages": "現在の会話をクリア",
+  "confirmClearCurrentMessages": "現在の会話をクリアします。クリアした後は元に戻すことはできません。操作を確認してください。",
+  "confirmRemoveSessionItemAlert": "このエージェントを削除します。削除した後は元に戻すことはできません。操作を確認してください。",
+  "defaultAgent": "デフォルトエージェント",
+  "defaultSession": "デフォルトセッション",
+  "duplicateTitle": "{{title}} のコピー",
+  "historyRange": "履歴範囲",
+  "inbox": {
+    "defaultMessage": "こんにちは、私はあなたのスマートアシスタントです。何か質問があれば遠慮なく聞いてください。より専門的でカスタマイズされたアシスタントが必要な場合は、`+` をクリックしてカスタムエージェントを作成できます。",
+    "desc": "脳のクラスターを起動し、創造性を引き出しましょう。あなたのスマートアシスタントは、あなたとすべてのことについてここでコミュニケーションします。",
+    "title": "気軽におしゃべり"
+  },
+  "input": {
+    "onlyAdd": "メッセージのみ追加",
+    "send": "送信",
+    "sendWithCmdEnter": "{{meta}} + Enter キーで送信",
+    "sendWithEnter": "Enter キーで送信",
+    "stop": "停止",
+    "warp": "改行"
+  },
+  "messageAction": {
+    "delAndRegenerate": "削除して再生成",
+    "regenerate": "再生成"
+  },
+  "newAgent": "新しいエージェント",
+  "noDescription": "説明なし",
+  "pin": "ピン留め",
+  "pinOff": "ピン留め解除",
+  "regenerate": "再生成",
+  "roleAndArchive": "役割とアーカイブ",
+  "searchAgentPlaceholder": "エージェントや会話を検索...",
+  "sendPlaceholder": "チャット内容を入力してください...",
+  "sessionList": "エージェントリスト",
+  "shareModal": {
+    "download": "スクリーンショットをダウンロード",
+    "imageType": "画像形式",
+    "screenshot": "スクリーンショット",
+    "settings": "エクスポート設定",
+    "shareToShareGPT": "ShareGPT 共有リンクを生成",
+    "withBackground": "背景画像を含む",
+    "withFooter": "フッターを含む",
+    "withPluginInfo": "プラグイン情報を含む",
+    "withSystemRole": "エージェントの役割を含む"
+  },
+  "stt": {
+    "action": "音声入力",
+    "loading": "認識中...",
+    "prettifying": "整形中..."
+  },
+  "temp": "一時的",
+  "tokenDetail": "役割設定: {{systemRoleToken}} · チャット履歴: {{chatsToken}}",
+  "tokenTag": {
+    "overload": "制限を超えています",
+    "remained": "残り",
+    "used": "使用済み"
+  },
+  "topic": {
+    "actions": {
+      "autoRename": "自動リネーム",
+      "duplicate": "コピーを作成",
+      "export": "トピックをエクスポート"
+    },
+    "confirmRemoveAll": "すべてのトピックを削除します。削除した後は元に戻すことはできません。注意して操作してください。",
+    "confirmRemoveTopic": "このトピックを削除します。削除した後は元に戻すことはできません。注意して操作してください。",
+    "confirmRemoveUnstarred": "スターをつけていないトピックを削除します。削除した後は元に戻すことはできません。注意して操作してください。",
+    "defaultTitle": "デフォルトトピック",
+    "guide": {
+      "desc": "左側のボタンをクリックして、現在の会話を保存し、新しい会話を開始できます",
+      "title": "トピックリスト"
+    },
+    "openNewTopic": "新しいトピックを開く",
+    "removeAll": "すべてのトピックを削除",
+    "removeUnstarred": "スターをつけていないトピックを削除",
+    "saveCurrentMessages": "現在の会話をトピックとして保存",
+    "searchPlaceholder": "トピックを検索...",
+    "title": "トピックリスト"
+  },
+  "translate": {
+    "action": "翻訳",
+    "clear": "翻訳を削除"
+  },
+  "tts": {
+    "action": "音声読み上げ",
+    "clear": "音声を削除"
+  },
+  "updateAgent": "エージェント情報を更新",
+  "upload": {
+    "actionTooltip": "画像をアップロード",
+    "dragDesc": "ファイルをここにドラッグしてください。複数の画像をアップロードできます。Shift キーを押しながら画像を直接送信することもできます。",
+    "dragTitle": "画像をアップロード"
+  }
+}
